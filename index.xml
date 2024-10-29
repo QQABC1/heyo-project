@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>heyo</title>
+    <link>https://qqabc1.github.io/heyo-project/</link>
+    <description>Recent content on heyo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>jane@doe.com ( Huangshankang)</managingEditor>
+    <webMaster>jane@doe.com ( Huangshankang)</webMaster>
+    <lastBuildDate>Tue, 29 Oct 2024 22:10:20 +0800</lastBuildDate>
+    <atom:link href="https://qqabc1.github.io/heyo-project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Todo List</title>
+      <link>https://qqabc1.github.io/heyo-project/post/todo-list/</link>
+      <pubDate>Tue, 29 Oct 2024 22:10:20 +0800</pubDate><author>jane@doe.com ( Huangshankang)</author>
+      <guid>https://qqabc1.github.io/heyo-project/post/todo-list/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;做事规划表项目&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;heading-1&#34;&gt;&lt;/h3&gt;&#xA;&lt;p&gt;项目链接&#xA;&lt;a href=&#34;https://qqabc1.github.io/Todo-list&#34; target=&#34;_blank&#34;&gt;点击这里访项目网站&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我的第一篇文章</title>
+      <link>https://qqabc1.github.io/heyo-project/post/my-first-post/</link>
+      <pubDate>Tue, 29 Oct 2024 09:18:07 +0800</pubDate><author>jane@doe.com ( Huangshankang)</author>
+      <guid>https://qqabc1.github.io/heyo-project/post/my-first-post/</guid>
+      <description>&lt;h3 id=&#34;heading&#34;&gt;&lt;/h3&gt;&#xA;&lt;p&gt;我是瓦批，撸狗。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Custom JavaScript and CSS</title>
+      <link>https://qqabc1.github.io/heyo-project/post/custom/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate><author>jane@doe.com ( Huangshankang)</author>
+      <guid>https://qqabc1.github.io/heyo-project/post/custom/</guid>
+      <description>&lt;p&gt;With custom CSS and JavaScript you can change pretty much anything in &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; appearance or functionality, and it&amp;rsquo;s pretty simple, too!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://qqabc1.github.io/heyo-project/post/markdown-syntax/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>jane@doe.com ( Huangshankang)</author>
+      <guid>https://qqabc1.github.io/heyo-project/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sketches!</title>
+      <link>https://qqabc1.github.io/heyo-project/post/sketches/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>jane@doe.com ( Huangshankang)</author>
+      <guid>https://qqabc1.github.io/heyo-project/post/sketches/</guid>
+      <description>&lt;p&gt;Sketches are the pretty visualizations in &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt;&amp;rsquo;s sidebar. The default ones were built using &lt;a href=&#34;https://p5js.org/&#34;&gt;p5.js&lt;/a&gt; &amp;ndash; a javascript library for creative coding.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://qqabc1.github.io/heyo-project/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>jane@doe.com ( Huangshankang)</author>
+      <guid>https://qqabc1.github.io/heyo-project/about/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;我的游戏历程&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading-1&#34;&gt;&lt;/h2&gt;&#xA;&lt;p&gt;1.只狼&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;这是一张本地照片&#34; src=&#34;https://qqabc1.github.io/heyo-project/images/Sekrio.png&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading-2&#34;&gt;&lt;/h2&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;无畏契约&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;这是一张本地照片&#34; src=&#34;https://qqabc1.github.io/heyo-project/images/valorant.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

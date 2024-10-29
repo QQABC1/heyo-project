@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on heyo</title>
+    <link>https://qqabc1.github.io/heyo-project/pt-br/tags/</link>
+    <description>Recent content in Tags on heyo</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <managingEditor>jane@doe.com ( Huangshankang)</managingEditor>
+    <webMaster>jane@doe.com ( Huangshankang)</webMaster>
+    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://qqabc1.github.io/heyo-project/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creative Coding</title>
+      <link>https://qqabc1.github.io/heyo-project/pt-br/tags/creative-coding/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>jane@doe.com ( Huangshankang)</author>
+      <guid>https://qqabc1.github.io/heyo-project/pt-br/tags/creative-coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>https://qqabc1.github.io/heyo-project/pt-br/tags/javascript/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>jane@doe.com ( Huangshankang)</author>
+      <guid>https://qqabc1.github.io/heyo-project/pt-br/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>P5js</title>
+      <link>https://qqabc1.github.io/heyo-project/pt-br/tags/p5js/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>jane@doe.com ( Huangshankang)</author>
+      <guid>https://qqabc1.github.io/heyo-project/pt-br/tags/p5js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theme</title>
+      <link>https://qqabc1.github.io/heyo-project/pt-br/tags/theme/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>jane@doe.com ( Huangshankang)</author>
+      <guid>https://qqabc1.github.io/heyo-project/pt-br/tags/theme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>https://qqabc1.github.io/heyo-project/pt-br/tags/shortcodes/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate><author>jane@doe.com ( Huangshankang)</author>
+      <guid>https://qqabc1.github.io/heyo-project/pt-br/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
